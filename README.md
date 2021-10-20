@@ -77,6 +77,7 @@ You will create components for displaying a user's dashboard.
 
 ### Requirements
 
+- Flesh out `DashboardPage.js` located in `dashboard-client/src/components/` to display the current user's information.
 - You may assume the first user in your database is the current authed user.
 - Your dashboard should fetch the current user's profile and display a welcome message to their username.
 - Your dashboard should fetch the list of the current user's tables and for each one display its name, formatted last played at date, and list of joined users by username.
@@ -85,4 +86,4 @@ You will create components for displaying a user's dashboard.
 
 ## Submitting Your Solution
 
-Create a zip of your final solution, removing any `.git` and `node_modules` directories, and email it to ian@playrole.com.
+Create a zip of your final solution, removing any `.git` and `node_modules` directories, and email it to jobs@playrole.com.
